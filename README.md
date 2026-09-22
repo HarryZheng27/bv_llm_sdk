@@ -60,6 +60,7 @@ Run Commands:
 ```
 uv run scripts/arm.py
 uv run scripts/takeoff.py
+uv run scripts/hold.py
 ```
 
 
